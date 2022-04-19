@@ -1,0 +1,57 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(495,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  plane.cpp
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(285,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(287,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(289,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(290,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(290,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(291,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(291,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(294,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(294,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(295,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(295,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(296,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(296,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(296,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(297,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(297,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(297,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(303,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(303,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(304,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(304,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(307,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(307,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(308,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(308,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(311,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(311,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(312,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(312,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(320,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(320,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(321,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(321,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(324,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(324,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(325,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(325,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(328,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(328,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(329,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(329,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(336,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(336,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(337,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(337,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(341,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(342,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(352,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(366,22): warning C4018: “>”: 有符号/无符号不匹配
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(552,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(552,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(553,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(553,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  plane.vcxproj -> D:\coding\C project\cpl-project2\plane\plane\plane.exe

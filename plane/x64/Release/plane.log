@@ -1,0 +1,153 @@
+﻿  plane.cpp
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(40,42): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(40,42): message : 尝试匹配参数列表“(IMAGE *, const char [24])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(41,36): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(41,36): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(42,36): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(42,36): message : 尝试匹配参数列表“(IMAGE *, const char [17])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(43,47): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(43,47): message : 尝试匹配参数列表“(IMAGE *, const char [18])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(44,47): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(44,47): message : 尝试匹配参数列表“(IMAGE *, const char [18])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(45,49): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(45,49): message : 尝试匹配参数列表“(IMAGE *, const char [22])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(46,48): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(46,48): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(47,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(47,50): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(48,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(48,50): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(49,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(49,50): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(50,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(50,50): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(51,52): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(51,52): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(52,52): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(52,52): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(53,51): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(53,51): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(54,51): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(54,51): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(55,51): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(55,51): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(56,51): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(56,51): message : 尝试匹配参数列表“(IMAGE *, const char [19])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(57,53): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(57,53): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(58,53): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(58,53): message : 尝试匹配参数列表“(IMAGE *, const char [21])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(59,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(59,50): message : 尝试匹配参数列表“(IMAGE *, const char [18])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(60,50): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(60,50): message : 尝试匹配参数列表“(IMAGE *, const char [18])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(61,58): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(61,58): message : 尝试匹配参数列表“(IMAGE *, const char [22])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(62,58): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(62,58): message : 尝试匹配参数列表“(IMAGE *, const char [22])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(67,38): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(247,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(67,38): message : 尝试匹配参数列表“(int, int, const char [15])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(262,18): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(262,18): message : 尝试匹配参数列表“(int, int, char [20])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(267,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(269,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(271,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(272,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(272,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(273,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(273,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(276,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(276,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(277,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(277,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(283,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(283,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(284,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(284,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(287,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(287,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(288,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(288,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(291,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(291,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(292,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(292,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(300,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(300,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(301,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(301,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(304,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(304,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(305,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(305,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(308,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(308,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(309,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(309,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(316,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(316,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(317,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(317,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(320,37): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(320,37): message : 尝试匹配参数列表“(int, int, const char [7])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(322,37): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(322,37): message : 尝试匹配参数列表“(int, int, const char [7])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(324,38): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(324,38): message : 尝试匹配参数列表“(int, int, const char [7])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(331,22): warning C4018: “>”: 有符号/无符号不匹配
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(617,31): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(247,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(617,31): message : 尝试匹配参数列表“(int, int, const char [8])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(629,30): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(247,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(629,30): message : 尝试匹配参数列表“(int, int, const char [5])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(647,36): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(247,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(647,36): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(652,50): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(652,50): message : 尝试匹配参数列表“(int, int, const char [14])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(685,37): error C2665: “settextstyle”: 4 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(247,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(685,37): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(688,52): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(688,52): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(690,53): error C2665: “outtextxy”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\coding\C project\cpl-project2\plane\plane\plane.cpp(690,53): message : 尝试匹配参数列表“(int, int, const char [10])”时
